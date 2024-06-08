@@ -12,7 +12,7 @@ I started coding in 2021, specializing in web development, and I am looking for 
 * ✉️   You can contact me at [shaheer.chry@gmail.com](mailto:shaheer.chry@gmail.com)
 * 🧠  I'm learning JavaScript, Ruby and Rails.
 * ⚡   I'm interested in blockchain technology.
-* ✔️   Open to new opportunities
+* ✔️   Open to new opportunities 
 
 ### Skills
 
