@@ -6,7 +6,7 @@ Learning Full-Stack Development
 
 ## Currently developing [Nitrobot](nitrobot.io)
 
-I started coding in 2021, specializing in web development, and I am looking for a full-time remote job. I play football, and I love traveling and camping.
+I started coding in 2021, specializing in web development, and I am looking for a full-time remote job. I play football, and I love travelling and camping.
 
 * 🌍  I'm based in Islamabad, Pakistan.
 * ✉️   You can contact me at [shaheer.chry@gmail.com](mailto:shaheer.chry@gmail.com)
@@ -39,6 +39,7 @@ I started coding in 2021, specializing in web development, and I am looking for 
 <b>My GitHub Stats</b>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShaheerCH&theme=radical) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaheerCH)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="http://www.github.com/ShaheerCH"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaheerCH&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
